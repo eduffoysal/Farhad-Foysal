@@ -14,11 +14,11 @@
 <h3 align="center">I love to make decision. I've built myself through genuine hard work and dedication, but I haven't shaped myself through showcasing or self-promotion.</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=eduffoysal&label=Profile%20views&color=0e75b6&style=flat" alt="Farhad Foysal" /> 
+  <img src="https://komarev.com/ghpvc/?username=foysalfarhad&label=Profile%20views&color=0e75b6&style=flat" alt="Farhad Foysal" /> 
 </p>
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduffoysal" alt="farhadfoysal" /></a> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=foysalfarhad" alt="farhadfoysal" /></a> 
 </p>
 
 - 💬 Ask me about **PHP, Android Studio Java, Flutter, DSA, Development**
@@ -32,7 +32,7 @@
 <a href="https://www.linkedin.com/in/farhad-foysal-b9a680201/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="32px" alt="LinkedIn"></a>
 <a href="https://www.twitter.com/farhadfoysal" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="32px" alt="Twitter"></a>
 <a href="https://youtube.com/@farhad_foysal?si=gqjHbYMo9AqVWzWy" target="_blank"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height="32px" alt="Youtube"></a>
-<a href="https://www.tiktok.com/@eduffoysal_" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&
+<a href="https://www.tiktok.com/@foysalfarhad_" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&
 logo=tiktok&logoColor=white" height="32px" alt="TikTok"></a>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -81,13 +81,13 @@ logo=tiktok&logoColor=white" height="32px" alt="TikTok"></a>
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduffoysal&show_icons=true&locale=en&layout=compact" alt="farhadfoysal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=foysalfarhad&show_icons=true&locale=en&layout=compact" alt="farhadfoysal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eduffoysal&show_icons=true&locale=en" alt="farhadfoysal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=foysalfarhad&show_icons=true&locale=en" alt="farhadfoysal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduffoysal&" alt="farhadfoysal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=foysalfarhad&" alt="farhadfoysal" /></p>
 
 
 ### My Github stats:
-![github stats](https://github-readme-stats.vercel.app/api?username=eduffoysal&show_icons=true&theme=transparent)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=eduffoysal&layout=compact&theme=transparent)
+![github stats](https://github-readme-stats.vercel.app/api?username=foysalfarhad&show_icons=true&theme=transparent)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=foysalfarhad&layout=compact&theme=transparent)
